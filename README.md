@@ -6,3 +6,4 @@ TO RUN THIS CODE:
 1.  Install node.js
 2.  run node savejs.js in your terminal.
 3.  Create a Firebase Account and Config in "groupchat.html"
+4.  postgresql Database is used for loged users and chatting data are store in firebase.
